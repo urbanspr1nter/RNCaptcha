@@ -50,5 +50,6 @@ From here, you will want to invoke the `GetCaptcha()` method to generate the nec
 * `GenerateRandomString()` - Utility function. Generates a string containing  8 random alphanumeric characters.
 * `GenerateMarkup()` - Generates an HTML img markup containing the base64 representation of the captcha output.
 * `GetCaptcha()` - Generates the base64 representation of the captcha output.
+
 ---
 END!
